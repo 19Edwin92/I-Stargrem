@@ -3,7 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 const initialState = {};
 
 export const todosSlice = createSlice({
-  name: "todos",
+  name: "posts",
   initialState,
   extraReducers: {},
 });

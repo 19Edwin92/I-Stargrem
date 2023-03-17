@@ -1,0 +1,27 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "제목",
+            "content": "코멘트입니다.",
+            "nickname" : "닉네임",
+            "createAt": "2023-03-17 10:30:29",
+            "modifiedAt": "2023-03-17 10:30:29",
+            "commentList": []
+        }
+    ],    
+    "singup" : [
+        {
+            "username": "이름",
+            "password": "비밀번호",
+            "nickname": "닉네임"
+        }
+    ],
+    "login": [
+        {
+            "username" : "이름",
+            "password" : "비밀번호"
+        }
+    ]
+    
+}
